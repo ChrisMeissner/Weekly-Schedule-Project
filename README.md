@@ -9,7 +9,7 @@ A work day scheduling app with the ability to save schedule information and disp
 * JS
 
 ## Website
-https://ChrisMeissner.github.io/weekly-schedule-project
+https://ChrisMeissner.github.io/work-day-scheduler
 
 ## Contribution
 Made with <3 by Chris Meissner
