@@ -1,7 +1,7 @@
 # Work Day Scheduler
 
 ## Purpose
-A website with the ability to save schedule information and display whether time in the schedule has already passed. 
+A work day scheduling app with the ability to save schedule information and display whether time in the schedule has already passed. 
 
 ## Built With
 * HTML
